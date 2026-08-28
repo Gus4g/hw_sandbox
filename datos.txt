@@ -1,2 +1,3 @@
-<Nombre:Gustavo Arce Garcia>
+<Nombre:Gustavo Arce Garcia(Gusag)>
 <Matricula:202432619>
+<Carrera: Ing. Tecnologias de la Informacion>
